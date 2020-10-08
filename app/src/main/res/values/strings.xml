@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BiometricAuthenticationDemo</string>
+    <string name="welcome">Welcome To Fingerprint Authenticaion</string>
+    <string name="you_have_successfully">You have successfully authenticate with fingerprint</string>
+    <string name="please_place_fingerprint">Please place your fingerprint on the scanner to verify your identity</string>
+    <string name="you_device_should_have_one_fingerprint">(Your device should have atleast one fingerprint registered in device settings)</string>
+</resources>
